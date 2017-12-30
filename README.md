@@ -1,4 +1,5 @@
 # hello-world
 My First GitHub Project
 
-Not much to see, just to play around. 
+This is a repository for working on "Automating the boring stuff"
+
